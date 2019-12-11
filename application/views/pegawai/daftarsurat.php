@@ -88,56 +88,6 @@
 												</div>
 												<div class="widget-summary-col">
 													<div class="summary">
-														<h4 class="title"> Pengajuan Paspor </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat2[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/2') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/2') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ket. Menyelesaikan Studi </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat3[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/3') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/3') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
 														<h4 class="title"> Ket. Akreditasi </h4>
 														<div class="info">
 															<strong class="amount"><?=$surat16[0]?></strong>
@@ -152,81 +102,7 @@
 										</div>
 									</section>
 								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ijin Matkul </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat17[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/17') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/17') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-quartenary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Pengantar PKL </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat18[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/18') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/18') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-quartenary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Undur Diri PKL </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat19[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/19') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/19') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
+
 								<div class="col-md-4 col-xl-6">
 									<section class="panel">
 										<div class="panel-body bg-tertiary">
@@ -252,231 +128,6 @@
 										</div>
 									</section>
 								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-quartenary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Pembelian Bahan </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat4[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/4') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/4') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-quartenary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Bantuan Bahan </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat5[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/5') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/5') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-quartenary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ijin Observasi </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat6[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/6') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/6') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-secondary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ijin Studi Pendahuluan </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat7[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/7') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/7') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-secondary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ijin Penelitian </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat7[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/8') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/8') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Ethical Clearance </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat9[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/9') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/9') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-secondary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Pengantar TA </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat10[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/10') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/10') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title">	Peminjaman Lab </h4>
-														<div class="info">
-															<strong class="amount"><?=$surat11[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/11') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/11') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<!--<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-tertiary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
-														<h4 class="title"> Izin Determinasi (Dosen) </h4>
-														<div class="info">
-															<strong class="amount"><?php echo "$ketemu12"; ?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="media.php?module=detailsurat_determinasi&id=12">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div> -->
 								<div class="col-md-4 col-xl-6">
 									<section class="panel">
 										<div class="panel-body bg-primary">
@@ -513,31 +164,6 @@
 												</div>
 												<div class="widget-summary-col">
 													<div class="summary">
-														<h4 class="title">	Ijin PKL	</h4>
-														<div class="info">
-															<strong class="amount"><?=$surat14[0]?></strong>
-														</div>
-													</div>
-													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/14') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/14') ?>">(Lihat Surat)</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
-								</div>
-								<div class="col-md-4 col-xl-6">
-									<section class="panel">
-										<div class="panel-body bg-primary">
-											<div class="widget-summary">
-												<div class="widget-summary-col widget-summary-col-icon">
-													<div class="summary-icon">
-														<i class="fa fa-envelope-o"></i>
-													</div>
-												</div>
-												<div class="widget-summary-col">
-													<div class="summary">
 														<h4 class="title">	Keterangan Beasiswa	</h4>
 														<div class="info">
 															<strong class="amount"><?=$surat15[0]?></strong>
@@ -552,9 +178,9 @@
 										</div>
 									</section>
 								</div>
-								<div class="col-md-4 col-xl-6">
+                                <div class="col-md-4 col-xl-6">
 									<section class="panel">
-										<div class="panel-body bg-quartenary">
+										<div class="panel-body bg-tertiary">
 											<div class="widget-summary">
 												<div class="widget-summary-col widget-summary-col-icon">
 													<div class="summary-icon">
@@ -563,23 +189,23 @@
 												</div>
 												<div class="widget-summary-col">
 													<div class="summary">
-														<h4 class="title"> Asisten Praktikum </h4>
+														<h4 class="title"> Pengajuan Paspor </h4>
 														<div class="info">
-															<strong class="amount"><?=$surat20[0]?></strong>
+															<strong class="amount"><?=$surat2[0]?></strong>
 														</div>
 													</div>
 													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/20') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/20') ?>">(Lihat Surat)</a>
+														<a href="<?= base_url('kontrol/set_margin/2') ?>" class="float-left">(Set Margin)</a>
+														<a href="<?= base_url('kontrol/detail_daftarsurat/2') ?>">(Lihat Surat)</a>
 													</div>
 												</div>
 											</div>
 										</div>
 									</section>
 								</div>
-								<div class="col-md-4 col-xl-6">
+                                <div class="col-md-4 col-xl-6">
 									<section class="panel">
-										<div class="panel-body bg-quartenary">
+										<div class="panel-body bg-tertiary">
 											<div class="widget-summary">
 												<div class="widget-summary-col widget-summary-col-icon">
 													<div class="summary-icon">
@@ -588,14 +214,14 @@
 												</div>
 												<div class="widget-summary-col">
 													<div class="summary">
-														<h4 class="title"> Ijin Determinasi </h4>
+														<h4 class="title"> Ket. Menyelesaikan Studi </h4>
 														<div class="info">
-															<strong class="amount"><?=$surat21[0]?></strong>
+															<strong class="amount"><?=$surat3[0]?></strong>
 														</div>
 													</div>
 													<div class="summary-footer">
-														<a href="<?= base_url('kontrol/set_margin/21') ?>" class="float-left">(Set Margin)</a>
-														<a href="<?= base_url('kontrol/detail_daftarsurat/21') ?>">(Lihat Surat)</a>
+														<a href="<?= base_url('kontrol/set_margin/3') ?>" class="float-left">(Set Margin)</a>
+														<a href="<?= base_url('kontrol/detail_daftarsurat/3') ?>">(Lihat Surat)</a>
 													</div>
 												</div>
 											</div>
